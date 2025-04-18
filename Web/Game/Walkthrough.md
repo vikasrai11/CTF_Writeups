@@ -18,6 +18,7 @@ Play a little game and relax
 <br><br>
 
 **3. LOOK AT THE COOKIE**
+
 ![ScreenShot](https://github.com/vikasrai11/CTF_Writeups/blob/66738890b34687bd105cebfef5237f3c8d224074/Web/Game/images/4.png)
 NDIgNTkgNTAgNDEgNTMgNTMgNDMgNTQgNDYgN2IgNjcgMzQgNmQgMzMgNWYgMzAgNzYgMzMgNzIgN2Q=
 
