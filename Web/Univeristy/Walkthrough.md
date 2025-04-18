@@ -1,22 +1,24 @@
 **Title**
 Rookie Mistake
 <br><br>
-
 **Description**
 An university, to cut corners, gave the job of designing the login page to students. Can you exploit the rookie mistakes these students have made?
 FLAG FORMAT: BYPASSCTF{}
 <br><br>
 **Steps:**
 **1.Main Page**
+
 ![ScreenShot](https://github.com/vikasrai11/CTF_Writeups/blob/828b42bf2c61e63b55b1a829ead430d67893c6e5/Web/Univeristy/images/1.png)
 <br>
 <br><br>
 **2.Checking for the existence of robots.txt file**
+
 ![ScreenShot](https://github.com/vikasrai11/CTF_Writeups/blob/828b42bf2c61e63b55b1a829ead430d67893c6e5/Web/Univeristy/images/2.png)
 <br><br>
 
 **3. Reviewing Source code**
 ***Right click was disabled***
+
 ![ScreenShot](https://github.com/vikasrai11/CTF_Writeups/blob/828b42bf2c61e63b55b1a829ead430d67893c6e5/Web/Univeristy/images/3.png)
 <br><br>
 
@@ -51,4 +53,4 @@ This was not complete yet!
 Checking the cookie for any information
 ![ScreenShot](https://github.com/vikasrai11/CTF_Writeups/blob/828b42bf2c61e63b55b1a829ead430d67893c6e5/Web/Univeristy/images/6.png)
 
-Flag: flag{BYPASSCTF{w3b_4pp_s3cur1ty_1s_vuln3r4bl3_t0_m4ny_ch4ll3ng3s_byp4ss3d!}
+Flag: BYPASSCTF{w3b_4pp_s3cur1ty_1s_vuln3r4bl3_t0_m4ny_ch4ll3ng3s_byp4ss3d!}
