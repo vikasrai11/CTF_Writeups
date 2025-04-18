@@ -16,7 +16,7 @@ FLAG FORMAT: BYPASSCTF{}
 ![ScreenShot](https://github.com/vikasrai11/CTF_Writeups/blob/828b42bf2c61e63b55b1a829ead430d67893c6e5/Web/Univeristy/images/2.png)
 <br><br>
 
-**3. Reviewing Source code**
+**3. Reviewing Source code** :
 ***Right click was disabled***
 
 ![ScreenShot](https://github.com/vikasrai11/CTF_Writeups/blob/828b42bf2c61e63b55b1a829ead430d67893c6e5/Web/Univeristy/images/3.png)
